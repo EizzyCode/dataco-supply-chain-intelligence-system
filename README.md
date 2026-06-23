@@ -14,7 +14,7 @@ Power BI supply chain analytics project analysing 65,750 orders across 5 global 
 
 **Technical Report (PDF):** [DataCo Technical Report](./DataCo_Technical_Report.pdf)
 
-**Portfolio:** **Portfolio:** [View this project on my portfolio](https://your-wix-site.com/dataco-supply-chain-project)
+**Portfolio:** **Portfolio:** [View this project on my portfolio](https://ashibcosmas.wixsite.com/portfolio/post/dataco-supply-chain-intelligence-system)
 
 > Row-level security has been disabled in the publicly embedded version above, since Power BI does not support public sharing for reports with RLS enabled. The full RLS implementation (12 roles across Executive, Regional Manager, and Country Manager tiers) is documented in the technical report and demonstrated in the local `.pbix` file. Available on request.
 
@@ -149,10 +149,10 @@ The full list of challenges and corrections is documented in Sections 3 and 9 of
 
 This is a personal portfolio project built to demonstrate supply chain analytics, Power BI development, and enterprise BI governance practices. It was structured using a formal project brief, a Requirements Traceability Matrix, a context diagram, and a data flow diagram before any development began.
 
-**Analyst:** Ashibeshi Cosmas
-**Certifications:** Microsoft PL-300 (Power BI Data Analyst Associate), CSCMP Supply Chain Foundations
-**Portfolio:** [datascienceportfol.io/ashibcosmas](https://datascienceportfol.io/ashibcosmas)
-**GitHub:** [EizzyCode](https://github.com/EizzyCode)
+**Analyst:** Ashibeshi Cosmas  
+**Certifications:** Microsoft PL-300 (Power BI Data Analyst Associate), CSCMP Supply Chain Foundations  
+**Portfolio:** [datascienceportfol.io/ashibcosmas](https://ashibcosmas.wixsite.com/portfolio)  
+**LinkedIn:** [Ashibeshi Cosmas](https://www.linkedin.com/in/ashibeshi-cosmas/)
 
 ---
 
