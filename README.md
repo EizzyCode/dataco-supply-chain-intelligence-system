@@ -10,11 +10,11 @@ Power BI supply chain analytics project analysing 65,750 orders across 5 global 
 
 ## Live Demo
 
-**Dashboard:** [Insert Power BI embed / public link here]
+**Dashboard:** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjU1MGUyNDAtMzJjNi00NWEwLTkzNWYtY2EzNmU2ZTQ2YzgwIiwidCI6IjM1NTJiNDQyLTQyNDUtNDBmNy1iMTk4LTAyNTcyOGM2OGNjZSJ9)
 
-**Technical Report (PDF):** [DataCo_Technical_Report.pdf](./DataCo_Technical_Report.pdf)
+**Technical Report (PDF):** [DataCo Technical Report](./DataCo_Technical_Report.pdf)
 
-**Portfolio:** [datascienceportfol.io/ashibcosmas](https://datascienceportfol.io/ashibcosmas)
+**Portfolio:** **Portfolio:** [View this project on my portfolio](https://your-wix-site.com/dataco-supply-chain-project)
 
 > Row-level security has been disabled in the publicly embedded version above, since Power BI does not support public sharing for reports with RLS enabled. The full RLS implementation (12 roles across Executive, Regional Manager, and Country Manager tiers) is documented in the technical report and demonstrated in the local `.pbix` file. Available on request.
 
